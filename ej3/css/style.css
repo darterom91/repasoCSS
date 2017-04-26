@@ -1,0 +1,30 @@
+header{
+    background-color:red;
+    padding:1em;
+}
+nav{
+  background-color:red;
+  margin:0.5em;
+  
+}
+
+#noticias,#principal,#secundario{
+  background-color:red;
+  padding: 0.5em;
+}
+#publicidad{
+    background-color:red;
+    margin-top:1em;
+}
+.articulos{
+    background-color:red;
+    padding: 1em;
+}
+
+#pie{
+  background-color:red;
+  margin-top:1em;
+  padding-top:0.5em;
+  padding-button:0.5em;
+
+}
